@@ -8,7 +8,7 @@ efficiently capture global and local features of protein sequences.
 ## Features
 * Adopting a multi-feature fusion strategy, which integrates different features generated from protein sequences.
 * Introducing an MSA Transformer to interleave row and column attention across the input MSA.
-* Applying a hybrid network architecture of CNN and LSTM networks to extract the high-latent features.
+* Applying a hybrid network architecture of CNN and BiGRU networks to extract the high-latent features.
 * MFTrans outperforms existing methods on several datasets, achieving SOTA.
 
 ## Requirements
